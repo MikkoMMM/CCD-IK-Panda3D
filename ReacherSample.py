@@ -1,5 +1,5 @@
-from .IKChain import IKChain
-from .Utils import *
+from IKChain import IKChain
+from Utils import *
 
 if __name__ == "__main__":
 
