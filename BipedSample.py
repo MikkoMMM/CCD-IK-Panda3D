@@ -1,7 +1,7 @@
 from panda3d.core import *
-from IKChain import IKChain
-from Utils import *
-from WalkCycle import WalkCycle
+from .IKChain import IKChain
+from .Utils import *
+from .WalkCycle import WalkCycle
 
 class Biped():
 
